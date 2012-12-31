@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "nnnnnnnnnnnnnnn.apps.googleusercontent.com",
+    "client_secret": "ssssssssssssssss",
+    "redirect_uris": ["http://localhost/auth"],
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token"
+  }
+}
+
